@@ -13,7 +13,7 @@ function Signin({ history }) {
     const toast = useToast();
     const content = {
         title: 'Sign in',
-        subtit: 'Share your files with ease✌️',
+        subtit: 'Share your files with an ease ✌️',
         button: 'Sign in',
         linkContent: 'Dont have an',
         link: 'account',
